@@ -1,0 +1,5 @@
+/*
+!.gitignore
+/application/*
+!application/controllers
+!application/libraries
